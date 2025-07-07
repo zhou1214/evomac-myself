@@ -8,3 +8,8 @@ This is my reproduction of evomac based on MASLab
 # usage
 * change the general_config.yaml file to your llm
 * change the sample - query to construct your coding instruction
+
+
+# link
+* https://github.com/yuzhu-cai/rSDE-Bench
+* https://github.com/MASWorks/MASLab
