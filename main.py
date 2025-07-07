@@ -1,5 +1,5 @@
 from evomac_main import EvoMAC_Main
-from utils import load_config # 导入 load_config 函数
+from utils import load_config 
 
 # input
 sample = {
